@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Currency Converter Lite</string>
+    <string name="_0">0</string>
+    <string name="convert">Convert</string>
+    <string name="name1">FROM</string>
+    <string name="name2">TO</string>
+</resources>
